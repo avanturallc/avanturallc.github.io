@@ -1,9 +1,9 @@
 ---
-title: "OSEN CLOCK"
-date: 2019-12-23T15:56:43+06:00
+title: "AVANTURA ONBOARDING"
+date: 2019-12-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/project-thumb-two.jpg"
-category: ["PRODUCT DESIGN"]
+image: "images/projects/project-thumb-four.jpg"
+category: ["INSIDE AVANTURA STUDIO"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
