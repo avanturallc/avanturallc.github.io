@@ -16,6 +16,10 @@ body {
     letter-spacing: 2px;
     text-transform: uppercase;
     margin-bottom: 15px;
+    @include mobile{
+      margin-top: 50px;
+    }
+
     @include desktop{
       font-size: 40px;
     }
