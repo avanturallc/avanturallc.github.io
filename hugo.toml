@@ -50,12 +50,21 @@ summarylength = 25
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
-      value = "gd"
-      title  = "Graphics Design"
+      value = "web-design"
+      title  = "Web design & development"
     [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
-  
+      value = "hosting"
+      title  = "Hosting"
+    [[params.contactForm.projectType]]
+      value = "domain-selection"
+      title  = "Domain selection"
+    [[params.contactForm.projectType]]
+      value = "quick-question"
+      title  = "Quick question"
+    [[params.contactForm.projectType]]
+      value = "other"
+      title  = "Other"
+
   # Navbar Action Button
   [params.navAction]
     status  = true
