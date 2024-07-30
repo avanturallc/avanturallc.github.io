@@ -131,7 +131,7 @@ summarylength = 25
         title   = "Social Media"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
+          url  = "https://instagram.com/avantura.studio"
         [[params.footer.social.link]]
           name = "Facebook"
           url  = "#"
